@@ -1,0 +1,2 @@
+### Unit 1 - Random Quote Generator
+This project is about displaying a random quote from a specified lists, random background color. And it also changed the quote from time to time in specify amount of time.
